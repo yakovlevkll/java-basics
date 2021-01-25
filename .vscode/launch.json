@@ -1,0 +1,12 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch App",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "app.Main",
+            "projectName": "my-app"
+        }
+    ]
+}
